@@ -9,8 +9,8 @@
  • Tebrikler, artık botunuz aktiftir 🎉
 
 
- • **🎉 | Raven's**
- • Bir hata veya bir sorunla mı karşılaştın? o zaman Raven's topluluk sunucusuna katıl.
+ • **🎉 | SireCode**
+ • Bir hata veya bir sorunla mı karşılaştın? o zaman SireCode topluluk sunucusuna katıl.
 
 
  • **⚠ | Uyarı**
