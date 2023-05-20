@@ -1,5 +1,5 @@
 # By ZeGa Tarafından Seçim Botu
- • **Ana Botumuzu Ekle : https://discord.com/api/oauth2/authorize?client_id=956179160915673110&permissions=8&scope=bot%20applications.commands
+ • **Ana Botumuzu Ekle** : https://discord.com/api/oauth2/authorize?client_id=956179160915673110&permissions=8&scope=bot%20applications.commands
 
 
  • **🔨 | Başlatma**
